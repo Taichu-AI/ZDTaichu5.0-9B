@@ -4,6 +4,15 @@ English | [简体中文](README_zh.md)
 
 [Blog](https://taichu-ai.github.io/ZDTaichu5.0-9B/) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B) | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B)
 
+## Model Downloads
+
+| Model | Hugging Face | ModelScope |
+| --- | --- | --- |
+| ZDTaichu5.0-9B | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B) |
+| ZDTaichu5.0-9B-FP8 | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B-FP8) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B-FP8) |
+| ZDTaichu5.0-9B-NVFP4 | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B-NVFP4) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B-NVFP4) |
+| ZDTaichu5.0-9B-DSpark | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B-DSpark) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B-DSpark) |
+
 ## Introduction
 
 ZDTaichu5.0-9B is a multimodal foundation model for general visual understanding, spatial reasoning, agentic tool use, and embodied-AI research. It combines a Qwen3.5-9B language backbone with a C-RADIOv4-H vision encoder, supports text, images and videos with any-resolution visual input.
