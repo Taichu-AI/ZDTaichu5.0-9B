@@ -4,6 +4,14 @@
 
 [Blog](https://taichu-ai.github.io/ZDTaichu5.0-9B/) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B) | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B)
 
+## 模型权重下载
+
+| 模型 | Hugging Face | ModelScope |
+| --- | --- | --- |
+| ZDTaichu5.0-9B | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B) |
+| ZDTaichu5.0-9B-FP8 | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B-FP8) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B-FP8) |
+| ZDTaichu5.0-9B-NVFP4 | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B-NVFP4) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B-NVFP4) |
+| ZDTaichu5.0-9B-DSpark | [Hugging Face](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B-DSpark) | [ModelScope](https://www.modelscope.cn/models/TaichuAI/ZDTaichu5.0-9B-DSpark) |
 
 ## 模型介绍
 
