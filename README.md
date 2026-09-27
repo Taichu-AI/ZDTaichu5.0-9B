@@ -406,12 +406,14 @@ The two figures compare ZDTaichu5.0-9B with open and closed models across genera
 Install a recent version of Hugging Face Transformers together with the standard multimodal dependencies:
 
 ```bash
-pip install tranformer==5.3.0 torch==2.10.0 torchvision==0.25.0 accelerate timm
+pip install transformers==5.3.0 torch==2.10.0 torchvision==0.25.0 accelerate timm
 ```
 
 ### Offline inference
 
+```bash
 export CUDA_VISIBLE_DEVICES=0
+```
 
 ```python
 import os
