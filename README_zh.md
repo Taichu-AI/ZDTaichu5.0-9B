@@ -406,12 +406,14 @@ ZDTaichu5.0-9B 是面向通用视觉理解、空间推理、Agent 工具使用�
 安装较新版本的 Hugging Face Transformers 及常用多模态依赖：
 
 ```bash
-pip install tranformer==5.3.0 torch==2.10.0 torchvision==0.25.0 accelerate timm
+pip install transformers==5.3.0 torch==2.10.0 torchvision==0.25.0 accelerate timm
 ```
 
 ### 离线推理
 
+```bash
 export CUDA_VISIBLE_DEVICES=0
+```
 
 ```python
 import os
